@@ -1,0 +1,106 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+  background-color: gray;
+}
+/* header styling */
+header {
+   background-color: black;
+   color: hotpink;
+   padding-top: 0;
+  width: 100%;
+  background-size: 100% auto;
+ }
+
+
+header nav ul {
+    display: flex;
+    flex-wrap: wrap;  
+    justify-content: space-evenly;
+    list-style: none;
+    align-items: center;
+    
+}
+header a {
+    text-decoration: none;
+    color:lightpink;
+}
+
+/* header styling end */
+
+/* about me section styling */
+
+.createCol {
+padding: 20px;
+display: block;
+
+}
+
+.createCol img {
+  height: 100px;
+  width: 250px;
+  margin-bottom: 100px;
+  margin-left: 20px;
+  border: solid blue;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.createCol p {
+  /* float: right; */
+  width: 600px;
+  padding: 50px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: left;
+  align-items: right;
+}
+
+
+
+
+/* about me section styling end */
+
+/* Work section styling */
+
+#caption {
+  position: absolute;
+  background-color: lightpink;
+  width: 60px;
+  height:50px;
+  font-size: .75em;
+  margin:0;
+  padding:0;
+  text-align: center;
+  top: 392px;
+  left:235px;
+}
+
+#mypic {
+  
+}
+
+
+/* Work section styling end */
+
+
+
+
+
+/* 
+.createCol h3{
+    width:20%;
+    float:left;
+    padding: 20px;
+    margin-top: 100px;
+
+}
+
+.createCol p label{
+    width: 80%;
+    float: right;
+}
+ */
