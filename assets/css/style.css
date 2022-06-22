@@ -1,3 +1,4 @@
+
 * {
   margin: 0;
   padding: 0;
@@ -10,7 +11,7 @@
 /* header styling */
 
 header {
-  background-color: gray;
+  background-color: blue;
   /* color: hotpink; */
   padding-top: 0;
   width: 100%;
@@ -26,6 +27,7 @@ header {
     justify-content: space-evenly;
     list-style: none;
     align-items: center;
+  
     
 } 
 header a {
@@ -122,6 +124,18 @@ header a {
   font-size: 35px;
   padding: 20px;
   margin:10px;
+  
+}
+
+.item h3 {
+  position: absolute;
+  font-size: 20px;
+  background-color: lightcoral;
+  color: black;
+}
+
+.item img {
+  border: solid 3px lightcoral;
 }
 
 .items-1 img{
@@ -178,4 +192,16 @@ header a {
   width: 300px;
   border: blue solid 3px;
 }
+
+
+
+
 /* work section styling end */
+
+/* footer styling */
+
+.content a {
+  padding: 100px;
+}
+
+/* footer styling end */
