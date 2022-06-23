@@ -1,6 +1,6 @@
 # MyPortfolio
 
-📖Weekly Challenge 1
+📖Weekly Challenge 2
 Implemented the following user story:
 
 
@@ -28,10 +28,15 @@ SO THAT I can review samples of their work and assess whether they're a good can
 * It's done when the page is responsive and adapts to your viewport. 
 
 
+## About the site
+
+The site is my personal portfolio. It has a header and navigation bar, a hero section, tells a little information about me, shows my work in web development, and gives my contact information. 
+
+
 ## Assets
 
-The URL is: 
+The URL is: https://rikrox.github.io/MyPortfolio/
 
 A screenshot of the site is in the images folder: [assets](./assets/images/siteScreenshot.PNG)
 
-Repository located at: 
+Repository located at: https://github.com/RikRox/MyPortfolio
