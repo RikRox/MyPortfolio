@@ -194,6 +194,17 @@ header a {
   border: blue solid 3px;
 }
 
+.items-6 img{
+  height:120px;
+  width: 250px; 
+}
+
+.items-6:hover img{
+  height:170px;
+  width: 300px;
+  border: blue solid 3px;
+}
+
 
 
 
